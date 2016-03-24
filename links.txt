@@ -3,3 +3,4 @@ http://javascriptbrasil.com/2013/10/23/aprenda-angularjs-com-estes-5-exemplos-pr
 https://code.angularjs.org/snapshot/docs/tutorial
 http://hello-angularjs.appspot.com/helloworld
 https://github.com/Kleberth/AngularTutorial.git
+http://www.devmedia.com.br/integracao-continua-uma-introducao-ao-assunto/28002
