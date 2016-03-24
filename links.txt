@@ -2,3 +2,4 @@ http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-e
 http://javascriptbrasil.com/2013/10/23/aprenda-angularjs-com-estes-5-exemplos-praticos/
 https://code.angularjs.org/snapshot/docs/tutorial
 http://hello-angularjs.appspot.com/helloworld
+https://github.com/Kleberth/AngularTutorial.git
